@@ -23623,3 +23623,66 @@ Unknown Unity Connect error (400). Please contact support at support@unity.com w
 [Licensing::Client] Successfully resolved entitlement details
 UPID Received '17052569-fbdc-49bd-bfce-3c1938419846'.
 [Licensing::Client] Successfully resolved entitlement details
+Scanning for USB devices : 0.344ms
+Android Extension - Scanning For ADB Devices 204 ms
+Android Extension - Scanning For ADB Devices 104 ms
+Attempted to call .Dispose on an already disposed CancellationTokenSource
+Android Extension - Scanning For ADB Devices 102 ms
+Android Extension - Scanning For ADB Devices 177 ms
+Scanning for USB devices : 34.883ms
+Attempted to call .Dispose on an already disposed CancellationTokenSource
+Android Extension - Scanning For ADB Devices 230 ms
+Android Extension - Scanning For ADB Devices 116 ms
+Attempted to call .Dispose on an already disposed CancellationTokenSource
+Android Extension - Scanning For ADB Devices 106 ms
+Android Extension - Scanning For ADB Devices 88 ms
+Scanning for USB devices : 0.225ms
+Attempted to call .Dispose on an already disposed CancellationTokenSource
+Android Extension - Scanning For ADB Devices 220 ms
+Android Extension - Scanning For ADB Devices 158 ms
+Attempted to call .Dispose on an already disposed CancellationTokenSource
+Android Extension - Scanning For ADB Devices 125 ms
+Android Extension - Scanning For ADB Devices 153 ms
+[Licensing::Client] Successfully resolved entitlement details
+Project ID request failed, Reason: The requested URL returned error: 401 (401).
+Unknown Unity Connect error (400). Please contact support at support@unity.com while processing request "https://services.unity.com/api/unity/legacy/v1/projects/17052569-fbdc-49bd-bfce-3c1938419846", HTTP error code 401
+.[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Client] Successfully updated the access token
+[Licensing::Module] Successfully updated access token: "m1opEhev"... (expires: 2026-10-19T20:58:38Z)
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Client] Successfully resolved entitlement details
+UPID Received '17052569-fbdc-49bd-bfce-3c1938419846'.
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Client] Successfully resolved entitlement details
+Project ID request failed, Reason: The requested URL returned error: 401 (401).
+Unknown Unity Connect error (400). Please contact support at support@unity.com while processing request "https://services.unity.com/api/unity/legacy/v1/projects/17052569-fbdc-49bd-bfce-3c1938419846", HTTP error code 401
+.[Licensing::Client] Successfully resolved entitlement details
+Project ID request failed, Reason: The requested URL returned error: 401 (401).
+Unknown Unity Connect error (400). Please contact support at support@unity.com while processing request "https://services.unity.com/api/unity/legacy/v1/projects/17052569-fbdc-49bd-bfce-3c1938419846", HTTP error code 401
+.[Licensing::Client] Successfully updated the access token
+[Licensing::Module] Successfully updated access token: "1olWrsj-"... (expires: 2026-10-19T22:58:06Z)
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Client] Successfully resolved entitlement details
+UPID Received '17052569-fbdc-49bd-bfce-3c1938419846'.
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Client] Successfully resolved entitlement details
+Project ID request failed, Reason: The requested URL returned error: 401 (401).
+Unknown Unity Connect error (400). Please contact support at support@unity.com while processing request "https://services.unity.com/api/unity/legacy/v1/projects/17052569-fbdc-49bd-bfce-3c1938419846", HTTP error code 401
+.[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Client] Successfully updated the access token
+[Licensing::Module] Successfully updated access token: "g9_NecbE"... (expires: 2026-10-20T00:57:28Z)
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Client] Successfully resolved entitlement details
+UPID Received '17052569-fbdc-49bd-bfce-3c1938419846'.
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Client] Successfully resolved entitlement details
+Project ID request failed, Reason: The requested URL returned error: 401 (401).
+Unknown Unity Connect error (400). Please contact support at support@unity.com while processing request "https://services.unity.com/api/unity/legacy/v1/projects/17052569-fbdc-49bd-bfce-3c1938419846", HTTP error code 401
+.[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Client] Successfully updated the access token
+[Licensing::Module] Successfully updated access token: "8vzZtfa6"... (expires: 2026-10-20T02:57:23Z)
+[Licensing::Client] Successfully resolved entitlement details
+UPID Received '17052569-fbdc-49bd-bfce-3c1938419846'.
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Client] Successfully resolved entitlement details
